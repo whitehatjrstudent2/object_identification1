@@ -1,0 +1,36 @@
+body {
+	background-size: cover;
+}
+
+.heading {
+	width: 100%;
+	margin: 0;
+	border-radius: 0px;
+}
+
+label {
+	color: white;
+	font-size: 15px;
+}
+
+input {
+	width: 500px;
+}
+
+#detect, #objects, #status {
+	font-size: 17px;
+}
+
+.footer {
+	width: 100%;
+	bottom: 0;
+	border-radius: 0px;
+	position: fixed;
+}
+
+canvas {
+	border: 2px solid black;
+	border-radius: 15px;
+	margin-top: 200px;
+	box-shadow: 5px 5px 5px gray;
+}
